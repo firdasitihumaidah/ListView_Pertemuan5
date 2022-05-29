@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceSt
         setContentView(R.layout.activity_main);
 
         //ambil list view dari activity_main.xml
